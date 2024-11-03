@@ -1,4 +1,4 @@
-# Online Purchase Order Risk Prediction
+# Customer Risk Prediction
 
 ## Overview
 
@@ -11,8 +11,6 @@ This project aims to predict the risk of default payment for online purchase ord
 - [Classification Method](#classification-method)
 - [Solutions and Findings](#solutions-and-findings)
 - [Usage](#usage)
-- [Team Members](#team-members)
-- [References](#references)
 
 ## Dataset Description
 
